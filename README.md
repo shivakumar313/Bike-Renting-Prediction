@@ -1,4 +1,4 @@
-# effect-of-environment-factors-on-bike-Renting
+# Effect-of-environment-factors-on-bike-Renting
 
 After checking Multiple ML Regression model--highest accuracy on Lasso Regression - First testing using Lasso Regression 
 
